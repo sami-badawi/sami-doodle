@@ -5,21 +5,40 @@
 
 * Big projects
 
-| Project         |    started | how far | utility | hours |
-|-----------------+------------+---------+---------+-------|
-| Emacs Lisp      | 2020-05-01 |       2 |         |     2 |
-| Org-mode        | 2020-04-19 |       8 |      10 |     5 |
-| Spacemacs       | 2020-04-18 |       8 |      10 |     5 |
-| SpaceVim        | 2020-03-28 |       6 |         |     5 |
-| Haskell         | 2020-02-08 |       7 |         |    20 |
-| Category theory | 2020-02-08 |       5 |         |    10 |
-| Blender         | 2020-01-01 |       3 |         |     4 |
-| Godot Engine    | 2019-12-15 |       5 |         |    20 |
-| PowerShell      | 2019-10-04 |       5 |         |     3 |
-| F#              | 2019-09-22 |       7 |         |    20 |
-| Unity           | 2019-08-31 |       3 |         |     3 |
-|                 |            |         |         |       |
+| Project           | how far | utility | hours |    started | first |
+|-------------------+---------+---------+-------+------------+-------|
+| Emacs Lisp        |       2 |       3 |     2 | 2020-05-01 |  2020 |
+| Org-mode          |       8 |      10 |     5 | 2020-04-19 |  2020 |
+| Spacemacs         |       8 |      10 |     5 | 2020-04-18 |  2016 |
+| Racket            |       2 |       2 |     3 | 2020-04-04 |  2020 |
+| SpaceVim          |       6 |       5 |     5 | 2020-03-28 |  2020 |
+| Haskell           |       7 |       5 |    20 | 2020-02-08 |  1999 |
+| Category theory   |       5 |       5 |    10 | 2020-02-08 |  2012 |
+| Springframework   |       5 |       6 |  1000 | 2020-01-26 |  2020 |
+| Blender           |       3 |       3 |     4 | 2020-01-01 |  2015 |
+| Godot Engine      |       5 |       3 |    20 | 2019-12-15 |  2019 |
+| PowerShell        |       5 |       4 |     3 | 2019-10-04 |  2019 |
+| .NET              |       7 |       7 |    10 | 2019-09-28 |  2009 |
+| F#                |       7 |       6 |    20 | 2019-09-22 |  2010 |
+| Unity             |       3 |       2 |     3 | 2019-08-31 |  2018 |
+| Scalding          |       8 |       7 |   100 | 2019-04-30 |  2012 |
+| Snowflake         |       4 |       7 |    40 | 2019-04-23 |  2019 |
+| Spark             |       9 |      10 |  1000 | 2019-04-23 |  2012 |
+| TypeScript        |       7 |       8 |    10 | 2019-02-13 |  2016 |
+| Google Vision API |       4 |       4 |    10 | 2019-02-13 |  2019 |
+| Tensorflow.js     |       4 |       4 |    20 | 2019-02-12 |  2019 |
+| Azure             |       3 |       5 |    10 | 2019-02-04 |  2019 |
+| GCP               |       5 |       7 |    20 | 2019-02-04 |  2019 |
+|                   |         |         |       |            |       |
 
 
+** Utility
 
+How do I define utility. Potential or actual utility?
+
+It is possible that I should have both this is a little tricky anything could be useful.
+
+* Overall thought
+
+I think that time things I spend my time on are pretty reasonable despite being all over the place.
 

@@ -3,6 +3,8 @@
 #+title: Inbox
 #+description: Incoming itemes that has not yet been sorted
 
+Maybe this is more for smaller temporary tasks.
+
 * TODO Activate credit card
 
 * TODO Activate debit card
