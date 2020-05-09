@@ -1,0 +1,57 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Photos
+#+description: Organize my photos
+
+* Organize photos 
+
+
+** DONE Find where to backup
+   CLOSED: [2020-05-09 Sat 14:47]
+I think that I decided that I should backup in Microsoft One store.
+
+** TODO Install Onedrive on my MacBook Pro
+
+Start dragging photos over.
+
+
+** Maybe find program to organize photos
+
+It should be pretty simple to write a program that can do this.
+
+I could possibly do this in Haskell.
+
+Or maybe in F# if I can get better ML support there.
+
+I think that the main thing I need to do it look at size and time stamp and I think that anything can do this.
+
+So maybe if I have the same program different places I should take the oldest.
+
+Maybe this is not super Haskell friendly.
+
+
+
+** TODO Find out how to organize folders
+
+*** Chronological
+
+That is the simples option.
+
+You could imagine that once I have them backed up I can refine later.
+
+** TODO I need to get into my old Mac Mini
+
+** 
+
+* Write photo organizer program
+
+What would it do?
+
+It should have a way to extract size name and possibly meta information.
+
+I am sure that I can do this in F#.
+
+
+
+
+

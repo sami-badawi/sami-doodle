@@ -5,6 +5,12 @@
  
 * Utility of Haskell in 2020-05
 
+ - I think that I can use this for writing small utilities.
+ - I do think that this shows me something about constructive mathematics.
+ - As long as I think that it is fun and I still do.
+ - I have a feeling that I will be getting tired of Haskell soon.
+ - Maybe I could do another Haskell project before I run out of steam.
+
 
 
 

@@ -12,17 +12,30 @@ This doesn't fit with GTD. But it is an overview page that is not generated.
  - Compare different tasks
  - Things can be split out
 
-* Organize photos
+* Tax and baking [0/5][0%]
+** TODO Contact Fidelity
+   DEADLINE: <2020-05-10 Sun>
+
+** TODO Activate credit card
+   DEADLINE: <2020-05-10 Sun>
+
+** TODO Activate debit card
+   DEADLINE: <2020-05-10 Sun>
+
+** TODO Get TAX pin
+   DEADLINE: <2020-05-10 Sun>
+
+** TODO Send TAX pin to Rita
+
+* TODO Organize photos
 
 Maybe I can also do this inside org mode.
 
 * Code projects
 
-** Do more Haskell
+** TODO Do more Haskell
 
 What should I do?
-
-
 
 ** Try some Emacs Lisp
  
@@ -32,6 +45,25 @@ On the other hand I understand it well enough
 
 ** Racket
 
+** TODO Most fun project now
+
+If I want to do the photo organizer should I do it in F# or in Haskell.
+
+I feel that I have not quite finished with my Haskell phase.
+
+I thought that F# was cool, but it was not that interesting.
+
+It was good to get back into the Windows world.
+
+It is possible that there are ML tools that I want to play with that are working better in .NET.
+
+Once I start.
+
+*** Where should this live?
+
+Possibly under photo.
+
+
 
 * Math
 
@@ -39,13 +71,13 @@ On the other hand I understand it well enough
 
 I got pretty far.
 
-* Setup org mode [0/2][0%]
+* Setup org mode [3/3][100%]
 
 Should I back port or just do new work here?
 
- - [ ] Port the most important general things
- - [ ] Port Haskell table CLI
- - [ ] Find out how to organize the projects
+ - [X] Port the most important general things
+ - [X] Port Haskell table CLI
+ - [X] Find out how to organize the projects
 
 
 
