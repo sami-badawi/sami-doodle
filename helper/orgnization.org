@@ -3,4 +3,35 @@
 #+title: Organization
 #+description: Idea of how to organize this org mode
 
- 
+* Organize projects [1/2][50%]
+
+ - [X] Language sub folder say haskell
+ - [ ] Semantic folder say vision
+
+
+
+** Project folder 
+
+If I have these should there be a top index file?
+
+I could possibly have a haskell/haskell.org file that might be better.
+
+I think that if I turn this into a web page then I can have different type of indexes.
+
+What happens when I return to Haskell after 3 years?
+
+I think that it is fine that I continue with haskell/haskell.org of general things.
+
+But when I start again I should probably make haskell/table-cli.org or haskell/haskell-ideas-2020.org.
+
+I think that it is pretty cheap to rename and clean up.
+
+It is good to keep notes in one place.
+So when I have to get back to 
+
+** How is this better than Google doc or Word?
+
+ - It is a simple format that I can have code in.
+ - I can see this in both Google and Windows world.
+
+

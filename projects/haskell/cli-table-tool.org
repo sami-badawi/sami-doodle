@@ -1,0 +1,9 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: cli-table-tool in Haskell 
+#+description: This is a none trivial somehwat useful little utility 
+
+
+* cli-table-tool goal
+
+

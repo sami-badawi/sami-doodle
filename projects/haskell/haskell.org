@@ -1,0 +1,10 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Haskell 
+#+description: Overall thoughts on Haskell projects get their own files
+ 
+* Utility of Haskell in 2020-05
+
+
+
+

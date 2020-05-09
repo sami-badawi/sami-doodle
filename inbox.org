@@ -5,9 +5,15 @@
 
 Maybe this is more for smaller temporary tasks.
 
-* TODO Activate credit card
+* Bank
 
-* TODO Activate debit card
+** TODO Contact Fidelity
 
+** TODO Activate credit card
 
+** TODO Activate debit card
+
+** TODO Get TAX pin
+
+** TODO Send TAX pin to Rita
 
