@@ -2,3 +2,24 @@
 #+author: Sami Badawi
 #+title: Review
 #+description: For weekly and monthly review
+
+* Big projects
+
+| Project         |    started | how far | utility | hours |
+|-----------------+------------+---------+---------+-------|
+| Emacs Lisp      | 2020-05-01 |       2 |         |     2 |
+| Org-mode        | 2020-04-19 |       8 |      10 |     5 |
+| Spacemacs       | 2020-04-18 |       8 |      10 |     5 |
+| SpaceVim        | 2020-03-28 |       6 |         |     5 |
+| Haskell         | 2020-02-08 |       7 |         |    20 |
+| Category theory | 2020-02-08 |       5 |         |    10 |
+| Blender         | 2020-01-01 |       3 |         |     4 |
+| Godot Engine    | 2019-12-15 |       5 |         |    20 |
+| PowerShell      | 2019-10-04 |       5 |         |     3 |
+| F#              | 2019-09-22 |       7 |         |    20 |
+| Unity           | 2019-08-31 |       3 |         |     3 |
+|                 |            |         |         |       |
+
+
+
+

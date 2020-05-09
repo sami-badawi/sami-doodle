@@ -3,4 +3,9 @@
 #+title: Inbox
 #+description: Incoming itemes that has not yet been sorted
 
+* TODO Activate credit card
+
+* TODO Activate debit card
+
+
 
