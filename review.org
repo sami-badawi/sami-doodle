@@ -1,0 +1,4 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Review
+#+description: For weekly and monthly review

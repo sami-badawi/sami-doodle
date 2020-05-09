@@ -1,0 +1,6 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Organization
+#+description: Idea of how to organize this org mode
+
+ 

@@ -1,0 +1,12 @@
+*.aux
+*.html
+*.log
+*.out
+*.pdf
+*.tex
+*.toc
+**/.#*.org
+\#*.org\#
+archive
+external
+tmp
