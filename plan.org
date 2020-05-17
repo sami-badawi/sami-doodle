@@ -79,16 +79,21 @@ I really only need to be able to read metadata.
 I don't exactly need the ML code.
 
 
-* Utility of F# vs. Haskell
+* Utility of F# vs. Haskell vs. Deno
 
 I know both to a level where I can work in them.
 
 ** What would I get from Haskell
 
+**** Good
  - Cement my proficiency I am almost there
  - More fun to write Haskell code
  - Cross platform scripts
  - More lightweight
+
+**** Bad
+ - Pretty bad with mutable data 
+ - Not sure how well the PyTorch bindings work
 
 What do I want from Haskell?
 
@@ -113,6 +118,17 @@ Maybe I should read some code first.
 
 The ML code looks good and simpler, but it is not one of the major libs.
 
+** Deno, TypeScript and Rust
+
+What is the simplest way to call deep learning?
+
+**** Good
+ - Easy to work on array data Rust
+ - TypeScript gives best access to semantic data
+
+**** Bad
+ - Maybe Deno is not there yet
+ - Maybe too much duct tape 
 
 ** Choice
 
