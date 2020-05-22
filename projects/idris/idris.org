@@ -1,0 +1,34 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Idris
+#+description: I am considering doing some work in Idris
+
+
+* Idris ideas
+
+** DONE Install
+   CLOSED: [2020-05-22 Fri 06:44]
+   
+What is the best way?
+
+*** Racket-CS
+
+Maybe that will do both and be more compatible.
+
+*** Racket and Chez Scheme
+
+Maybe more mature and I am sure that I get standard install that is working.
+
+
+
+
+
+
+
+** DONE Make hello world 
+   CLOSED: [2020-05-22 Fri 06:44]
+
+
+** Play around
+
+
