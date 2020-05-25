@@ -1,0 +1,34 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Hasktoch
+#+description: Contribute to Hasktoch project
+
+ 
+* Ideas [5/10][50%]
+
+ - [X] Just get Hasktoch running
+ - [X] Read the Hasktoch material
+ - [X] Watch Udemy class 
+ - [X] Read Hasktoch documentation 
+ - [X] Try PyTorch on Codelap 
+ - [ ] Read PyToch documentation 
+ - [ ] Read my new PyToch book
+ - [ ] Read Hasktoch code
+ - [ ] Find project I want to make
+ - [ ] 
+
+
+* Dependent types
+
+
+I think that looking a Idris has been helpful,
+but spending more time on this now is a distraction.
+
+I could see that it could come in handy for defining matrices,
+but I can probably that already.
+
+How much time should I spend on 
+
+
+
+
