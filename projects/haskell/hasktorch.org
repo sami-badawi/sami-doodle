@@ -14,8 +14,8 @@
  - [ ] Read PyToch documentation 
  - [ ] Read my new PyToch book
  - [ ] Read Hasktoch code
- - [ ] Find project I want to make
- - [ ] 
+ - [ ] Make MNIST CNN with 99% accuracy 
+ - [ ] Run more Hasktoch examples
 
 
 * Dependent types
@@ -28,6 +28,126 @@ I could see that it could come in handy for defining matrices,
 but I can probably that already.
 
 How much time should I spend on 
+
+
+* Start project MNIST
+
+I could try to make a MNIST that work to 99% accuracy.
+
+That should be pretty simple.
+I might have to do some work to get the training set working.
+
+* Start project better documentation
+
+I could try to run more Hasktoch example and document it.
+
+** Maybe I should make a readme under examples
+
+Good thing about that is that this is not stepping on the feel of individual authors.
+
+** Improve toplevel readme
+
+This might also be a little much for a new guy to ask for this.
+
+** How best to contribute
+
+* Running examples
+
+** Autograde 
+
+It ran out of the box. 
+
+Documentation was good.
+
+I had to do this locally:
+
+#+BEGIN_SRC shell
+stack run autograd  
+#+END_SRC
+
+
+** AlexNet
+
+That only compiles with cabal.
+
+I do not have Cabal installed.
+Not even sure how to install cabal.
+
+So this was actually build.
+
+#+BEGIN_SRC shell
+cd hasktorch/examples
+stack run alexNet  
+#+END_SRC
+
+
+** Gausian process
+
+I could also kick this off from root dir.
+
+#+BEGIN_SRC shell 
+cd hasktorch
+stack run gaussian-process 
+#+END_SRC
+
+And I could kick it from from 
+
+#+BEGIN_SRC shell 
+cd examples/gaussian-process
+stack run gaussian-process 
+#+END_SRC
+
+
+** matrix-factorization
+
+I could run that from both 
+
+#+BEGIN_SRC shell
+stack run matrix-factorization  
+#+END_SRC
+
+
+It looks like there are different versions installed:
+
+#+begin_example
+$ find . -name matrix-factorization -type f
+./examples/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/matrix-factorization/matrix-factorization
+./.stack-work/install/x86_64-osx/225d21305ecb313950ce6d07112455457f66fbc5264213e890a6d322ef8fbb0f/8.8.3/bin/matrix-factorization
+#+end_example
+
+They were build at different times and maybe the first was build with stack
+
+
+** Regression
+
+
+
+#+BEGIN_SRC shell 
+cd hasktorch
+stack run regression  
+#+END_SRC
+
+
+** static-mnist-cnn
+
+So there is common download.
+
+I am not sure where the reading is going on.
+Maybe the simplest way around is to improve documentation and then change the reader to read from ../static-mnist
+
+
+* Creating a PR
+
+I found this:
+
+https://gist.github.com/jpierson/b6c0815e9dd7078f6b8cc3cb9076ddf4
+
+
+So I should clone first.
+
+
+
+
 
 
 
