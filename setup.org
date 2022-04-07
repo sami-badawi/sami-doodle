@@ -1,0 +1,41 @@
+#+OPTIONS: ^:nil
+#+author: Sami Badawi
+#+title: Setup
+#+ description: Setup new laptop
+
+* Setup
+
+* Plan [14/32][43%]
+
+ - [ ] .NET 6
+ - [ ] Akka Stream
+ - [X] BB Edit
+ - [X] Bloop
+ - [ ] C++
+ - [ ] Cats Effect
+ - [ ] CMake
+ - [ ] Colab
+ - [X] coursier
+ - [ ] Docker
+ - [X] Doom Emacs
+ - [ ] Flink
+ - [X] Homebrew
+ - [X] iTerm
+ - [X] Java
+ - [ ] jenv
+ - [X] Jupyter
+ - [ ] K8s
+ - [ ] Nerd fonts
+ - [X] Python
+ - [ ] Pythorch
+ - [X] Scala
+ - [X] Scala-cli
+ - [X] SDKman
+ - [ ] SparQA
+ - [X] ssh
+ - [ ] Terraform
+ - [ ] Tesseract
+ - [ ] Triton
+ - [ ] VCPKG
+ - [X] VS Code
+ - [ ] ZIO

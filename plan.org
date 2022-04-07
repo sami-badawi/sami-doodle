@@ -144,7 +144,7 @@ Dumping it now right when I am in good shape seems a little silly.
 
 I got pretty far.
 
-* Setup org mode [3/3][100%]
+* Setup org mode [3/5][60%]
 
 Should I back port or just do new work here?
 
@@ -152,9 +152,4 @@ Should I back port or just do new work here?
  - [X] Port Haskell table CLI
  - [X] Find out how to organize the projects
  - [ ] See if I can operate Org mode directly from GitHub
-
-
-
-
-
-
+ - [ ] Laptop setup 2022
